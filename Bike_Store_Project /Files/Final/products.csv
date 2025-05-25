@@ -1,0 +1,322 @@
+"product_id";"product_name";"brand_id";"category_id";"model_year";"list_price"
+1;"820";9;6;2016;379.99
+2;"Timberwolf Frameset";5;6;2016;749.99
+3;"Wednesday Frameset";8;6;2016;999.99
+4;"Fuel EX 8 29";9;6;2016;2899.99
+5;"Shagamaw Frame";3;6;2016;1320.99
+6;"Ice Cream Truck Frameset";8;6;2016;469.99
+7;"Slash 8 27.5";9;6;2016;3999.99
+8;"Remedy 29 Carbon Frameset";9;6;2016;1799.99
+9;"Conduit+";9;5;2016;2999.99
+10;"Straggler";8;4;2016;1549.0
+11;"Straggler 650b";8;4;2016;1680.99
+12;"Townie Original 21D";1;3;2016;549.99
+13;"Cruiser 1 (24Inch)";1;3;2016;269.99
+14;"Girl's Hawaii 1 (16inch)";1;3;2016;269.99
+15;"Moto 1";1;3;2016;529.99
+16;"Townie Original 7D EQ";1;3;2016;599.99
+17;"Vine 8Speed";4;3;2016;429.0
+18;"Western 3Speed  Women's";4;3;2016;449.0
+19;"William 3Speed";4;3;2016;449.0
+20;"Townie Original 7D EQ  Women's";1;3;2016;599.99
+21;"Cruiser 1 (24Inch)";1;1;2016;269.99
+22;"Girl's Hawaii 1 (16inch)";1;1;2016;269.99
+23;"Girl's Hawaii 1 (20inch)";1;1;2016;299.99
+24;"Townie Original 21D";1;2;2016;549.99
+25;"Townie Original 7D";1;2;2016;499.99
+26;"Townie Original 7D EQ";1;2;2016;599.99
+27;"Big Dummy Frameset";8;6;2017;999.99
+28;"Karate Monkey 27.5+ Frameset";8;6;2017;2499.99
+29;"XCaliber 8";9;6;2017;999.99
+30;"Ice Cream Truck Frameset";8;6;2017;999.99
+31;"Wednesday";8;6;2017;1632.99
+32;"Farley Alloy Frameset";9;6;2017;469.99
+33;"Wednesday Frameset";8;6;2017;469.99
+34;"Session DH 27.5 Carbon Frameset";9;6;2017;469.99
+35;"Spider 3i";7;6;2017;832.99
+36;"Troll Frameset";8;6;2017;832.99
+37;"Flightline One ST";2;6;2017;379.99
+38;"Flightline Two 26 Plus";2;6;2017;549.99
+39;"Stache 5";9;6;2017;1499.99
+40;"Fuel EX 9.8 29";9;6;2017;4999.99
+41;"Shift R3";2;6;2017;1469.99
+42;"Fuel EX 5 27.5 Plus";9;6;2017;2299.99
+43;"Fuel EX 9.8 27.5 Plus";9;6;2017;5299.99
+44;"SR 1.1";2;6;2017;539.99
+45;"SR 1.2";2;6;2017;869.99
+46;"SR 1.3";2;6;2017;1409.99
+47;"Remedy 9.8";9;6;2017;5299.99
+48;"Emonda S 4";9;7;2017;1499.99
+49;"Domane SL 6";9;7;2017;3499.99
+50;"Silque SLR 7 Women's";9;7;2017;5999.99
+51;"Silque SLR 8 Women's";9;7;2017;6499.99
+52;"Steamroller";8;7;2017;875.99
+53;"Ogre Frameset";8;7;2017;749.99
+54;"Domane SL Disc Frameset";9;7;2017;3199.99
+55;"Domane S 6";9;7;2017;2699.99
+56;"Domane SLR 6 Disc";9;7;2017;5499.99
+57;"Emonda S 5";9;7;2017;1999.99
+58;"Madone 9.2";9;7;2017;4999.99
+59;"Domane S 5 Disc";9;7;2017;2599.99
+60;"ElectroLite";7;5;2017;1559.99
+61;"Powerfly 8 FS Plus";9;5;2017;4999.99
+62;"Boone 7";9;4;2017;3499.99
+63;"Boone Race Shop Limited";9;4;2017;3499.99
+64;"Townie Original 7D";1;3;2017;489.99
+65;"Lil Bolt TypeR";7;3;2017;346.99
+66;"Revolutions 24";7;3;2017;250.99
+67;"Revolutions 24  Girl's";7;3;2017;250.99
+68;"Cruz 3";7;3;2017;449.99
+69;"Cruz 7";7;3;2017;416.99
+70;"Amsterdam Original 3i";1;3;2017;659.99
+71;"Atlas XType";7;3;2017;416.99
+72;"Biscayne Tandem 7";7;3;2017;619.99
+73;"Brickell Tandem 7";7;3;2017;749.99
+74;"Cruiser Lux 1";1;3;2017;439.99
+75;"Cruiser Lux Fat Tire 1 Ladies";1;3;2017;599.99
+76;"Girl's Hawaii 1 16""  """;1;3;2017;299.99
+77;"Glam Punk 3i Ladies'";1;3;2017;799.99
+78;"Biscayne Tandem CB";7;3;2017;647.99
+79;"Boardwalk (24inch Wheels)";7;3;2017;402.99
+80;"Brickell Tandem CB";7;3;2017;761.99
+81;"Amsterdam Fashion 7i Ladies'";1;3;2017;1099.99
+82;"Amsterdam Original 3i Ladies'";1;3;2017;659.99
+83;"Boy's Kickster";9;1;2017;149.99
+84;"Lil Kitt'n";7;1;2017;109.99
+85;"Downtown 16";2;1;2017;329.99
+86;"Girl's Kickster";9;1;2017;149.99
+87;"Precaliber 12 Boys";9;1;2017;189.99
+88;"Precaliber 12 Girls";9;1;2017;189.99
+89;"Precaliber 16 Boys";9;1;2017;209.99
+90;"Precaliber 16 Girls";9;1;2017;209.99
+91;"Precaliber 24 (21Speed)  Girls";9;1;2017;349.99
+92;"Shredder 20";2;1;2017;209.99
+93;"Shredder 20 Girls";2;1;2017;209.99
+94;"Shredder Pro 20";2;1;2017;249.99
+95;"Girl's Hawaii 1 16""  """;1;1;2017;299.99
+96;"Moto 3i (20inch)  Boy's";1;1;2017;349.99
+97;"Savannah 3i (20inch)  Girl's";1;1;2017;349.99
+98;"Straight 8 3i (20inch)  Boy's";1;1;2017;489.99
+99;"Sugar Skulls 1 (20inch)  Girl's";1;1;2017;299.99
+100;"Townie 3i EQ (20inch)  Boys'";1;1;2017;489.99
+101;"Townie 7D (20inch)  Boys'";1;1;2017;339.99
+102;"Townie Original 7D";1;2;2017;489.99
+103;"Streamway 3";7;2;2017;551.99
+104;"Streamway";7;2;2017;481.99
+105;"Streamway 7";7;2;2017;533.99
+106;"Cruz 3";7;2;2017;449.99
+107;"Cruz 7";7;2;2017;416.99
+108;"Cruz 3  Women's";7;2;2017;449.99
+109;"Cruz 7  Women's";7;2;2017;416.99
+110;"Drifter 7";7;2;2017;470.99
+111;"Drifter 7  Women's";7;2;2017;470.99
+112;"820";9;6;2018;379.99
+113;"Marlin 5";9;6;2018;489.99
+114;"Marlin 6";9;6;2018;579.99
+115;"Fuel EX 8 29";9;6;2018;3199.99
+116;"Marlin 7";9;6;2018;749.99
+117;"Ticket S Frame";9;6;2018;1469.99
+118;"XCaliber 8";9;6;2018;999.99
+119;"Kids' Neko";9;6;2018;469.99
+120;"Fuel EX 7 29";9;6;2018;2499.99
+121;"Krampus Frameset";8;6;2018;2499.99
+122;"Troll Frameset";8;6;2018;2499.99
+123;"Farley Carbon Frameset";9;6;2018;999.99
+124;"Krampus";8;6;2018;1499.0
+125;"Kids' Dual Sport";9;6;2018;469.99
+126;"Big Fat Dummy Frameset";8;6;2018;469.99
+127;"Pack Rat Frameset";8;6;2018;469.99
+128;"ECR 27.5";8;6;2018;1899.0
+129;"XCaliber 7";9;6;2018;919.99
+130;"Stache Carbon Frameset";9;6;2018;919.99
+131;"Bloodhound Trail";3;6;2018;2599.0
+132;"Procal AL Frameset";9;6;2018;1499.99
+133;"Procaliber Frameset";9;6;2018;1499.99
+134;"Remedy 27.5 C Frameset";9;6;2018;1499.99
+135;"XCaliber Frameset";9;6;2018;1499.99
+136;"Procaliber 6";9;6;2018;1799.99
+137;"Shagamaw GX1";3;6;2018;2599.0
+138;"Fuel EX 5 Plus";9;6;2018;2249.99
+139;"Remedy 7 27.5";9;6;2018;2999.99
+140;"Remedy 9.8 27.5";9;6;2018;4999.99
+141;"Stache 5";9;6;2018;1599.99
+142;"Fuel EX 8 29 XT";9;6;2018;3199.99
+143;"Domane ALR 3";9;7;2018;1099.99
+144;"Domane ALR 4 Disc";9;7;2018;1549.99
+145;"Domane ALR 5 Disc";9;7;2018;1799.99
+146;"Domane SLR 6";9;7;2018;4999.99
+147;"Domane ALR 5 Gravel";9;7;2018;1799.99
+148;"Domane SL 8 Disc";9;7;2018;5499.99
+149;"Domane SLR 8 Disc";9;7;2018;7499.99
+150;"Emonda SL 7";9;7;2018;4499.99
+151;"Domane ALR 4 Disc Women's";9;7;2018;1549.99
+152;"Domane SL 5 Disc Women's";9;7;2018;2499.99
+153;"Domane SL 7 Women's";9;7;2018;4999.99
+154;"Domane SLR 6 Disc Women's";9;7;2018;5499.99
+155;"Domane SLR 9 Disc";9;7;2018;11999.99
+156;"Domane SL Frameset";9;7;2018;6499.99
+157;"Domane SL Frameset Women's";9;7;2018;6499.99
+158;"CrossRip 1";9;7;2018;959.99
+159;"Emonda ALR 6";9;7;2018;2299.99
+160;"Emonda SLR 6";9;7;2018;4499.99
+161;"ECR";8;7;2018;1899.0
+162;"Emonda SL 6 Disc";9;7;2018;2999.99
+163;"Pack Rat";8;7;2018;1349.0
+164;"Straggler 650b";8;7;2018;1549.0
+165;"1120";9;7;2018;2499.99
+166;"Domane AL 2 Women's";9;7;2018;749.99
+167;"ECR Frameset";8;7;2018;749.99
+168;"Straggler";8;7;2018;1549.0
+169;"Emonda SLR 8";9;7;2018;6499.99
+170;"CrossRip 2";9;7;2018;1299.99
+171;"Domane SL 6";9;7;2018;3199.99
+172;"Domane ALR Disc Frameset";9;7;2018;3199.99
+173;"Domane ALR Frameset";9;7;2018;3199.99
+174;"Domane SLR Disc Frameset";9;7;2018;3199.99
+175;"Domane SLR Frameset";9;7;2018;3199.99
+176;"Madone 9 Frameset";9;7;2018;3199.99
+177;"Domane SLR 6 Disc";9;7;2018;5499.99
+178;"Domane AL 2";9;7;2018;749.99
+179;"Domane AL 3";9;7;2018;919.99
+180;"Domane AL 3 Women's";9;7;2018;919.99
+181;"Domane SL 5";9;7;2018;2199.99
+182;"Domane SL 5 Disc";9;7;2018;2499.99
+183;"Domane SL 5 Women's";9;7;2018;2199.99
+184;"Domane SL 6 Disc";9;7;2018;3499.99
+185;"Conduit+";9;5;2018;2799.99
+186;"CrossRip+";9;5;2018;4499.99
+187;"Neko+";9;5;2018;2799.99
+188;"XM700+ Lowstep";9;5;2018;3499.99
+189;"Lift+ Lowstep";9;5;2018;2799.99
+190;"Dual Sport+";9;5;2018;2799.99
+191;"Loft Go! 8i";1;5;2018;2799.99
+192;"Townie Go! 8i";1;5;2018;2599.99
+193;"Lift+";9;5;2018;2799.99
+194;"XM700+";9;5;2018;3499.99
+195;"Townie Go! 8i Ladies'";1;5;2018;2599.99
+196;"Verve+";9;5;2018;2299.99
+197;"Verve+ Lowstep";9;5;2018;2299.99
+198;"Townie Commute Go!";1;5;2018;2999.99
+199;"Townie Commute Go! Ladies'";1;5;2018;2999.99
+200;"Powerfly 5";9;5;2018;3499.99
+201;"Powerfly 5 FS";9;5;2018;4499.99
+202;"Powerfly 5 Women's";9;5;2018;3499.99
+203;"Powerfly 7 FS";9;5;2018;4999.99
+204;"Super Commuter+ 7";9;5;2018;3599.99
+205;"Super Commuter+ 8S";9;5;2018;4999.99
+206;"Boone 5 Disc";9;4;2018;3299.99
+207;"Boone 7 Disc";9;4;2018;3999.99
+208;"Crockett 5 Disc";9;4;2018;1799.99
+209;"Crockett 7 Disc";9;4;2018;2999.99
+210;"Straggler";8;4;2018;1549.0
+211;"Straggler 650b";8;4;2018;1549.0
+212;"Townie Original 21D";1;3;2018;559.99
+213;"Cruiser 1";1;3;2018;269.99
+214;"Tiger Shark 3i";1;3;2018;899.99
+215;"Queen of Hearts 3i";1;3;2018;749.99
+216;"Super Moto 8i";1;3;2018;899.99
+217;"Straight 8 3i";1;3;2018;909.99
+218;"Cruiser 7D";1;3;2018;319.99
+219;"Moto 3i";1;3;2018;639.99
+220;"Cruiser 1 Ladies'";1;3;2018;269.99
+221;"Cruiser 7D Ladies'";1;3;2018;319.99
+222;"Cruiser 1 Tall";1;3;2018;269.99
+223;"Cruiser Lux 3i";1;3;2018;529.99
+224;"Cruiser Lux 7D";1;3;2018;479.99
+225;"Delivery 3i";1;3;2018;959.99
+226;"Townie Original 21D EQ";1;3;2018;679.99
+227;"Cruiser 7D (24Inch) Ladies'";1;3;2018;319.99
+228;"Cruiser 7D Tall";1;3;2018;319.99
+229;"Cruiser Lux 1";1;3;2018;429.99
+230;"Cruiser Lux 1 Ladies'";1;3;2018;429.99
+231;"Cruiser Lux 3i Ladies'";1;3;2018;529.99
+232;"Cruiser Lux 7D Ladies'";1;3;2018;479.99
+233;"Cruiser Lux Fat Tire 7D";1;3;2018;639.99
+234;"Daydreamer 3i Ladies'";1;3;2018;899.99
+235;"Koa 3i Ladies'";1;3;2018;899.99
+236;"Morningstar 3i Ladies'";1;3;2018;749.99
+237;"Relic 3i";1;3;2018;849.99
+238;"Townie Balloon 8D EQ";1;3;2018;749.99
+239;"Townie Balloon 8D EQ Ladies'";1;3;2018;749.99
+240;"Townie Commute 27D Ladies";1;3;2018;899.99
+241;"Townie Commute 8D";1;3;2018;749.99
+242;"Townie Commute 8D Ladies'";1;3;2018;699.99
+243;"Townie Original 21D EQ Ladies'";1;3;2018;679.99
+244;"Townie Original 21D Ladies'";1;3;2018;559.99
+245;"Townie Original 3i EQ";1;3;2018;659.99
+246;"Townie Original 3i EQ Ladies'";1;3;2018;639.99
+247;"Townie Original 7D EQ";1;3;2018;599.99
+248;"Townie Original 7D EQ Ladies'";1;3;2018;599.99
+249;"White Water 3i";1;3;2018;749.99
+250;"Townie Go! 8i";1;3;2018;2599.99
+251;"Townie Commute Go!";1;3;2018;2999.99
+252;"Townie Commute Go! Ladies'";1;3;2018;2999.99
+253;"Townie Go! 8i Ladies'";1;3;2018;2599.99
+254;"Townie Balloon 3i EQ";1;3;2018;749.99
+255;"Townie Balloon 7i EQ Ladies'";1;3;2018;899.99
+256;"Townie Commute 27D";1;3;2018;899.99
+257;"Amsterdam Fashion 3i Ladies'";1;3;2018;899.99
+258;"Amsterdam Royal 8i";1;3;2018;1259.9
+259;"Amsterdam Royal 8i Ladies";1;3;2018;1199.99
+260;"Townie Balloon 3i EQ Ladies'";1;3;2018;799.99
+261;"Townie Balloon 7i EQ";1;3;2018;899.99
+262;"MT 201";9;1;2018;249.99
+263;"Classic 12 Balance Bike";6;1;2018;89.99
+264;"Sport 16";6;1;2018;249.99
+265;"20 Sport";6;1;2018;289.99
+266;"Superfly 20";9;1;2018;399.99
+267;"Precaliber 12 Girl's";9;1;2018;199.99
+268;"Kickster";9;1;2018;159.99
+269;"Precaliber 12 Boy's";9;1;2018;199.99
+270;"Precaliber 16 Boy's";9;1;2018;209.99
+271;"Precaliber 16 Girl's";9;1;2018;209.99
+272;"Precaliber 20 6speed Boy's";9;1;2018;289.99
+273;"Precaliber 20 6speed Girl's";9;1;2018;289.99
+274;"Precaliber 20 Boy's";9;1;2018;229.99
+275;"Precaliber 20 Girl's";9;1;2018;229.99
+276;"Precaliber 24 (7Speed)  Boys";9;1;2018;319.99
+277;"Precaliber 24 21speed Boy's";9;1;2018;369.99
+278;"Precaliber 24 21speed Girl's";9;1;2018;369.99
+279;"Precaliber 24 7speed Girl's";9;1;2018;319.99
+280;"Superfly 24";9;1;2018;489.99
+281;"Cruiser 7D (24Inch) Ladies'";1;1;2018;319.99
+282;"Cyclosaurus 1 (16inch)  Boy's";1;1;2018;279.99
+283;"Heartchya 1 (20inch)  Girl's";1;1;2018;319.99
+284;"Savannah 1 (20inch)  Girl's";1;1;2018;319.99
+285;"Soft Serve 1 (16inch)  Girl's";1;1;2018;279.99
+286;"Starship 1 16""  """;1;1;2018;279.99
+287;"Straight 8 1 (16inch)  Boy's";1;1;2018;279.99
+288;"Straight 8 1 (20inch)  Boy's";1;1;2018;389.99
+289;"Superbolt 1 20""  """;1;1;2018;319.99
+290;"Superbolt 3i 20""  """;1;1;2018;369.99
+291;"Sweet Ride 1 (20inch)  Girl's";1;1;2018;319.99
+292;"Sweet Ride 3i (20inch)  Girls'";1;1;2018;369.99
+293;"Tiger Shark 1 (20inch)  Boys'";1;1;2018;319.99
+294;"Tiger Shark 3i (20inch)  Boys'";1;1;2018;369.99
+295;"Treasure 1 20""  """;1;1;2018;319.99
+296;"Treasure 3i 20""  """;1;1;2018;369.99
+297;"UnderTheSea 1 16""  """;1;1;2018;279.99
+298;"Water Lily 1 (16inch)  Girl's";1;1;2018;279.99
+299;"Townie Original 21D";1;2;2018;559.99
+300;"Townie Balloon 3i EQ Ladies'";1;2;2018;799.99
+301;"Townie Balloon 7i EQ";1;2;2018;899.99
+302;"Townie Original 1";1;2;2018;449.99
+303;"Townie Go! 8i";1;2;2018;2599.99
+304;"Townie Original 21D EQ";1;2;2018;679.99
+305;"Townie Balloon 3i EQ";1;2;2018;749.99
+306;"Townie Balloon 7i EQ Ladies'";1;2;2018;899.99
+307;"Townie Balloon 8D EQ";1;2;2018;749.99
+308;"Townie Balloon 8D EQ Ladies'";1;2;2018;749.99
+309;"Townie Commute 27D";1;2;2018;899.99
+310;"Townie Commute 27D Ladies";1;2;2018;899.99
+311;"Townie Commute 8D";1;2;2018;749.99
+312;"Townie Commute 8D Ladies'";1;2;2018;699.99
+313;"Townie Original 1 Ladies'";1;2;2018;449.99
+314;"Townie Original 21D EQ Ladies'";1;2;2018;679.99
+315;"Townie Original 21D Ladies'";1;2;2018;559.99
+316;"Checkpoint ALR 4 Women's";9;7;2019;1699.99
+317;"Checkpoint ALR 5";9;7;2019;1999.99
+318;"Checkpoint ALR 5 Women's";9;7;2019;1999.99
+319;"Checkpoint SL 5 Women's";9;7;2019;2799.99
+320;"Checkpoint SL 6";9;7;2019;3799.99
+321;"Checkpoint ALR Frameset";9;7;2019;3199.99
