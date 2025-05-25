@@ -1,4 +1,5 @@
-Bike Store SQL Data  Project
+Bike Store SQL Data Project
+
 This repository contains a full end-to-end SQL pipeline for building a relational data model for a bike store, moving data through three main stages: Raw, Clean, and Final (Analytical Model). Each stage is represented by both SQL scripts and example CSV data files.
 
 Project Structure
@@ -55,5 +56,7 @@ Quick Start
 	4	Use analytics scripts and views for reporting.
 
 For more context, refer to the documentation in the Report/ folder.
+
+*All data in this repository is for demonstration and educational purposes only; included data does not represent real customer or business information*
 
 Author Matt Rees-Warren
